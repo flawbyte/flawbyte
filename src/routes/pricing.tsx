@@ -278,8 +278,8 @@ const sections: Section[] = [
     tiers: [
       {
         name: "Starter Website",
-        originalPrice: "₹19,999",
-        price: "₹15,999",
+        originalPrice: "₹21,999",
+        price: "₹16,999",
         badge: "For Startups",
         badgeTone: "accent",
         features: [
