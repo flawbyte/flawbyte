@@ -279,7 +279,7 @@ const sections: Section[] = [
       {
         name: "Starter Website",
         originalPrice: "₹19,999",
-        price: "₹14,999",
+        price: "₹15,999",
         badge: "For Startups",
         badgeTone: "accent",
         features: [
